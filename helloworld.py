@@ -6,3 +6,5 @@ print("Hello world " + min_variabel)
 print(f"Python är kul på en skala: {betyg} ")
 
 
+
+
